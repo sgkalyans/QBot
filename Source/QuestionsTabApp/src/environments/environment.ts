@@ -4,8 +4,8 @@
 
 export const environment = {
     production: false,
-    apiBaseUrl: "https://MyTpQBot9.azurewebsites.net/api/Request/",
-    selfUrl: "https://MyTpQBot9-questions.azurewebsites.net",
+    apiBaseUrl: "https://mytpqbotnew.azurewebsites.net/api/Request/",
+    selfUrl: "https://mytpqbotnew-questions.azurewebsites.net",
 
     authConfig: {
         instance: "https://login.microsoftonline.com/",
